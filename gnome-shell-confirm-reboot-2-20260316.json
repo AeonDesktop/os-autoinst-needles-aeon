@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 541,
+      "ypos": 428,
+      "width": 122,
+      "height": 31,
+      "type": "match",
+      "click_point": {
+        "xpos": 61,
+        "ypos": 15.5
+      }
+    },
+    {
+      "xpos": 365,
+      "ypos": 360,
+      "width": 161,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 379,
+      "ypos": 428,
+      "width": 83,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-shell-confirm-reboot-2"
+  ]
+}

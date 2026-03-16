@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "xpos": 346,
+      "ypos": 302,
+      "width": 174,
+      "height": 63,
+      "type": "match",
+      "click_point": {
+        "xpos": 87,
+        "ypos": 31.5
+      }
+    },
+    {
+      "xpos": 344,
+      "ypos": 382,
+      "width": 82,
+      "height": 37,
+      "type": "match"
+    },
+    {
+      "xpos": 440,
+      "ypos": 677,
+      "width": 141,
+      "height": 49,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "login-1"
+  ]
+}
