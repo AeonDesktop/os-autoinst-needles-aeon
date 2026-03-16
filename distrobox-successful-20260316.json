@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 116,
+      "ypos": 638,
+      "width": 256,
+      "height": 32,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "distrobox-successful"
+  ]
+}

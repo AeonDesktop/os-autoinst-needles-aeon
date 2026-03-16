@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 110,
+      "ypos": 132,
+      "width": 244,
+      "height": 84,
+      "type": "match"
+    },
+    {
+      "xpos": 368,
+      "ypos": 117,
+      "width": 287,
+      "height": 61,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-console-open"
+  ]
+}

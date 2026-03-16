@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 466,
+      "ypos": 119,
+      "width": 90,
+      "height": 88,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-console-icon"
+  ]
+}
