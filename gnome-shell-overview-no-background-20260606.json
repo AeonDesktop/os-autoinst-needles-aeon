@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 135,
+      "ypos": 99,
+      "width": 764,
+      "height": 54,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome-shell-overview"
+  ]
+}
