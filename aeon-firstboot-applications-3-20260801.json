@@ -1,0 +1,31 @@
+{
+  "area" : [
+    {
+      "type" : "match",
+      "xpos" : 38,
+      "ypos" : 195,
+      "width" : 140,
+      "height" : 85
+    },
+    {
+      "type" : "match",
+      "xpos" : 718,
+      "ypos" : 709,
+      "width" : 70,
+      "height" : 25,
+      "click_point" : {
+        "xpos" : 35.0,
+        "ypos" : 13.0
+      }
+    }
+  ],
+  "properties" : [
+    {
+      "name" : "workaround",
+      "value" : "https://github.com/AeonDesktop/Project/issues/73"
+    }
+  ],
+  "tags" : [
+    "aeon-firstboot-applications-3"
+  ]
+}
