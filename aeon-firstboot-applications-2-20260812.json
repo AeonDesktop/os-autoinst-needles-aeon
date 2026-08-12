@@ -1,0 +1,26 @@
+{
+  "area" : [
+    {
+      "type" : "match",
+      "xpos" : 423,
+      "ypos" : 279,
+      "width" : 177,
+      "height" : 30
+    },
+    {
+      "type" : "match",
+      "xpos" : 302,
+      "ypos" : 491,
+      "width" : 183,
+      "height" : 28,
+      "click_point" : {
+        "xpos" : 92.0,
+        "ypos" : 14.0
+      }
+    }
+  ],
+  "properties" : [],
+  "tags" : [
+    "aeon-firstboot-applications-1"
+  ]
+}
