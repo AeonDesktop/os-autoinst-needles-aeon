@@ -5,7 +5,7 @@
       "xpos" : 38,
       "ypos" : 195,
       "width" : 140,
-      "height" : 85
+      "height" : 146
     },
     {
       "type" : "match",
@@ -19,12 +19,7 @@
       }
     }
   ],
-  "properties" : [
-    {
-      "name" : "workaround",
-      "value" : "https://github.com/AeonDesktop/Project/issues/73"
-    }
-  ],
+  "properties" : [],
   "tags" : [
     "aeon-firstboot-applications-3"
   ]
