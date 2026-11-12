@@ -1,0 +1,15 @@
+{
+  "area" : [
+    {
+      "type" : "match",
+      "xpos" : 175,
+      "ypos" : 89,
+      "width" : 354,
+      "height" : 19
+    }
+  ],
+  "properties" : [],
+  "tags" : [
+    "aeon-boot-manager-loading"
+  ]
+}
