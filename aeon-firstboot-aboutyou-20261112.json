@@ -1,0 +1,29 @@
+{
+  "area" : [
+    {
+      "type" : "match",
+      "xpos" : 437,
+      "ypos" : 269,
+      "width" : 153,
+      "height" : 37
+    },
+    {
+      "type" : "match",
+      "xpos" : 250,
+      "ypos" : 389,
+      "width" : 518,
+      "height" : 120
+    },
+    {
+      "type" : "exclude",
+      "xpos" : 263,
+      "ypos" : 418,
+      "width" : 29,
+      "height" : 29
+    }
+  ],
+  "properties" : [],
+  "tags" : [
+    "aeon-firstboot-aboutyou"
+  ]
+}
